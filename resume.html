@@ -3,14 +3,14 @@
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;600;700;900&display=swap" rel="stylesheet">
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
 		<style>
 			
-			
-
-
 			body{
 				font-family: 'Montserrat', sans-serif; /* how to import google font */
 				padding: 0 25%;
@@ -27,7 +27,9 @@
 				height: 1px;
 				background-color: lightgrey;
 			}
-
+			ul{
+				margin-left: 20%
+			}
 			.center{
 				text-align: center;
 			}
@@ -66,12 +68,19 @@
 				border-radius: 50%; /* round borders to 50% of height */
 				height:100px;
 			}
-			ul{
-				margin-left: 20%
+			.social-media-list{
+				list-style-type: none;
+				color: grey;
+				font-size: 20px;
 			}
+
+			
 
 			/* small screens */
 			@media screen and (max-width: 700px) {
+				body{
+					padding: 0 10%;
+				}
 				.navigation{
 					flex-direction: column;
 					justify-content: center;
@@ -79,8 +88,7 @@
 				.navigation-link{
 					width: 100%; /* height automatic */
 					justify-content: center;
-					margin-bottom: 10px;
-					
+					margin-bottom: 10px;	
 			}
 			}
 			
@@ -133,6 +141,18 @@
 				<li>Yoga</li>
 			</ul>
 		</div>
+
+		<hr>
+		<!-- SOCIAL MEDIA -->
+		<!-- EMBED, ICONS -->
+		<div>
+			<h3>LET'S CONNECT</h3>
+			<div class = "social-media-list center">
+				<a href = "https://www.linkedin.com/in/mwiverson/"><i class="fa fa-linkedin"></i></a>
+			</div>
+              
+		</div>
+
 
 
 	</body>
