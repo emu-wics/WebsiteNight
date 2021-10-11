@@ -1,9 +1,9 @@
 # WiCS-HTML
 A repo of HTML documents for WiCS HTML event on 10/13/2021
 
-[Tutorial Slide Show](https://morganiverson.github.io/WiCS-HTML/tutorial)
-[Tutorial m1 Slide Show](https://morganiverson.github.io/WiCS-HTML/tutorial1)
-[Sample Web Page](https://morganiverson.github.io/WiCS-HTML/sample)
+[Sample Web Page](https://morganiverson.github.io/WebsiteNight/sample) <br>
+[Tutorial Slide Show](https://morganiverson.github.io/WebsiteNight/tutorial) <br>
+[Tutorial v1 Slide Show](https://morganiverson.github.io/WebsiteNight/tutorial1) <br>
 
 
 
