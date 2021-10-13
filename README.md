@@ -2,6 +2,8 @@ A repo of HTML documents for WiCS Website Night on 10/13/2021
 
 [Sample Web Page](https://emu-wics.github.io/WebsiteNight/sample) <br>
 [Tutorial Slide Show](https://emu-wics.github.io/WebsiteNight/index) <br>
+[Keegan's Example](https://emu-wics.github.io/WebsiteNight/basicAboutMe) <br>
+[Another from Keegan](https://emu-wics.github.io/WebsiteNight/anotherResumeExample) <br>
 
 
 
